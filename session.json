@@ -1,3 +1,52 @@
-Taro session lu disini, jgn pke session baileys biasa karna gk bakal bisa
+*AlphabotMDོ*
+EXEC: cat session.json
 
-Put your session here
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "oN+jolJF75uevdFDDu19b7o0h2fdcGYdpcjfVYshzXw="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "Hlcn1KfpyV6J8djPrrFAfmz4roSniEhPLgUaIu6u9Hk="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "+FHDhiy8sFfHYXkGInvNBgi+oFWB5ehDISy8vVzI5n0="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "w0SroPiBlWPysdeiWUTyzT2jKf3oPbBgrhaUlIYGZgQ="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "oB+EKKwotDCPnyWSW3Malw+hRSh3nouD/m3tP2uV/ms="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "PsST2JzQ5XuO8S9gFXS4GilpqO0hs+/pNxJqqPO9SS4="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "vuCaMt3/HFjaIvDeypxz66GLMo/9uDioZJc27vLJNwztr+h25mn3+xNUvEvDtRc/BJV/ySeoWPoUxMQ5VelYjQ=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 229,
+    "advSecretKey": "D8cnzwFPuT8lqK1ecOOtEBCkKMavsX1BjP90nRnTJbA=",
+    "nextPreKeyId": 33,
+    "firstUnuploadedPreKeyId": 33,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CNy96IwDEKPm2Y8GGAE=",
+      "accountSignatureKey": "94I9/VMQUHsWXRoF5cmr6lGXuSMvgOIWKMSuDOYeWBo=",
+      "accountSignature": "GS6ALW4cMqhdVh8BOcUQAFUIG4HVFcEVK7o9Vzb3K0Q1jTmwCJTUm9BnXGn0+2WG7/Ob+aZAy1I3q3REmdkhAQ==",
+ 
